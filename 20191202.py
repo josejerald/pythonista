@@ -12,6 +12,5 @@ for i in input_array:
             prod *= j
     output_array.append(prod)
 
-
 for k in output_array:
     print(k)
